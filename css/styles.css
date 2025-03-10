@@ -31,6 +31,8 @@ body {
     font-family: sans-serif;
     margin: 0em;
     padding: 0em;
+    display: inline-block;
+    min-width: 100%;
 }
 p {
     font-family: "Shantell Sans";

@@ -9,6 +9,13 @@ using GitHub pages and is a satirical website for a fictional fast food chain, [
 
 # Version History
 The full changelogs for all release versions are listed below in addition to the original commit date. Since I'm using GitHub pages instead of using the built-in 'Releases' feature (since this repository is pure HTML and CSS), this README is the primary way I'm documenting development changes.
+## Release v0.1.6
+- Added new error page `404.html` for displaying when attempting to view unavailable pages.
+- Added new folders to root.
+- Deleted `menu-exp.html` from root.
+- Added new CSS properties, `display: inline-block` and `min-width: 100%`, to `styles.css` to ensure proper element responsiveness.
+- Updated `README.md` to reflect `v0.1.6` changes.
+
 ## Release v0.1.5
 **Commit Date:** March 7th, 2025
 - Added backend support via a [third-party](https://formsubmit.co/) hoster. Form submissions now work when submitting a 'Customer Complaint' on the `contact-us.html` page.
