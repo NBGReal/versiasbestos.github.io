@@ -88,7 +88,7 @@
     margin: 0;
 }
 .sitewide-navbar-grid-container {
-    background-color: rgb(64, 118, 140);
+    background-color: rgb(56, 104, 122);
     padding: 1.05rem 1.20rem 1.05rem 1.05rem;
     display: grid;
     place-items: center;
@@ -205,7 +205,7 @@
     padding-right: 0.5rem
 }
 .sitewide-footer-grid-container {
-    background-color: rgb(64, 118, 140);
+    background-color: rgb(56, 104, 122);
     margin-top: 0.5rem;
     min-width: 100%;
     display: grid;
